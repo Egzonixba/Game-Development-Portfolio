@@ -27,7 +27,7 @@ A high-speed 3D urban racing game featuring responsive vehicle physics, rival AI
 - Data persistence for player progression
 - Modular and maintainable gameplay architecture
 
-🎥 Gameplay Video: *[(Insert YouTube Link)](https://www.youtube.com/watch?v=oJIvKMP1z9k)*
+🎥 Gameplay Video: *[( Trailer)](https://www.youtube.com/watch?v=oJIvKMP1z9k)*
 
 ---
 
@@ -77,7 +77,7 @@ Designed to understand real-time synchronization and scalable multiplayer system
 - Separation of client logic and backend services
 - Data-driven game state management
 
-🎥 Gameplay Video: *[(Insert YouTube Link)](https://www.youtube.com/watch?v=LxcQ_WX3LXc)*
+🎥 Gameplay Video: *[(Trailer)](https://www.youtube.com/watch?v=LxcQ_WX3LXc)*
 
 ---
 
@@ -109,5 +109,5 @@ Designed to understand real-time synchronization and scalable multiplayer system
 I am passionate about building engaging, scalable gameplay systems and continuously improving my engineering practices.  
 Currently seeking opportunities to grow within a professional game development studio environment.
 
-LinkedIn: *[(Insert Link)](https://www.linkedin.com/in/egzon-barja-a36b4a175/)*  
+LinkedIn: *[(LinkedIn)](https://www.linkedin.com/in/egzon-barja-a36b4a175/)*  
 Email: egzonixbb@gmail.com
